@@ -1,6 +1,4 @@
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Himanshu+Singh;Full+Stack+Software+Engineer;Building+AI+%26+FinTech+Architectures;Translating+ML+into+Products;Turning+Coffee+into+Code" alt="Typing SVG" />
-<div/>
 
 # 💫 About Me:
 <br>* 🎓 **Education:** B.Tech in Computer Science and Engineering<br>* 💻 **What I Do:** Translate complex data structures and ML algorithms into high-performance, real-world products.<br>* 🛠️ **Current Projects:** Architecting a Gemini-powered styling engine and a Spring Boot/React micro-investing platform.<br>* ⚡ **Fun Fact:** I treat system design and algorithmic problem-solving like a daily sport.<br>* 📫 **Reach Me:** Always open to discussing tech, cloud computing, and full-stack engineering roles.
