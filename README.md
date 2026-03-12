@@ -5,7 +5,7 @@
 # 💫 About Me:
 <br>* 🎓 **Education:** B.Tech in Computer Science and Engineering<br>* 💻 **What I Do:** Translate complex data structures and ML algorithms into high-performance, real-world products.<br>* 🛠️ **Current Projects:** Architecting a Gemini-powered styling engine and a Spring Boot/React micro-investing platform.<br>* ⚡ **Fun Fact:** I treat system design and algorithmic problem-solving like a daily sport.<br>* 📫 **Reach Me:** Always open to discussing tech, cloud computing, and full-stack engineering roles.
 
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshusinghhls) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshusinghhls@gmail.com) 
 [![](https://visitcount.itsvg.in/api?id=himanshusinghhls&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -17,3 +17,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=himanshusinghhls&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusinghhls&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
