@@ -3,8 +3,8 @@
 
 # 💫 About Me:
 </div>
-<br>* 🎓 **Education:** B.Tech in Computer Science and Engineering<br>* 💻 **What I Do:** Translate complex data structures and ML algorithms into high-performance, real-world products.<br>* 🛠️ **Current Projects:** Architecting a Gemini-powered styling engine and a Spring Boot/React micro-investing platform.<br>* ⚡ **Fun Fact:** I treat system design and algorithmic problem-solving like a daily sport.<br>* 📫 **Reach Me:** Always open to discussing tech, cloud computing, and full-stack engineering roles.
-
+* 🎓 **Education:** B.Tech in Computer Science and Engineering<br>* 💻 **What I Do:** Translate complex data structures and ML algorithms into high-performance, real-world products.<br>* 🛠️ **Current Projects:** Architecting a Gemini-powered styling engine and a Spring Boot/React micro-investing platform.<br>* ⚡ **Fun Fact:** I treat system design and algorithmic problem-solving like a daily sport.<br>* 📫 **Reach Me:** Always open to discussing tech, cloud computing, and full-stack engineering roles.
+<br>
 <div align="center">
   
 <a href="https://linkedin.com/in/himanshusinghhls">
