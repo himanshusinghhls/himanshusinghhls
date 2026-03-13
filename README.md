@@ -21,6 +21,10 @@ B.Tech in Computer Science and Engineering
 
 <div align="center">
   
+<a href="https://drive.google.com/file/d/1NR2DPHLc88jxlcPPLgBeMBj6sLiqmKpv/view?usp=share_link">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
+
 <a href="https://linkedin.com/in/himanshusinghhls">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
