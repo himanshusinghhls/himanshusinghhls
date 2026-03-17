@@ -38,13 +38,13 @@ B.Tech in Computer Science and Engineering
 <div align="center">
 
 <a href="https://payae.vercel.app/">
-  <img src="https://img.shields.io/badge/FinTech%20Platform-Razorpay%20%7C%20Finance-0A66C2?style=for-the-badge&logo=google-pay&logoColor=white" />
+  <img src="https://img.shields.io/badge/FinTech%20Platform-072654?style=for-the-badge&logo=razorpay&logoColor=white" alt="FinTech Platform" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://nova-style-ai.vercel.app/">
-  <img src="https://img.shields.io/badge/AI%20Engine-ML%20%7C%20Fashion-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Styling%20Engine-E91E63?style=for-the-badge&logo=stylelint&logoColor=white" alt="AI Styling Engine" />
 </a>
 
 </div>
