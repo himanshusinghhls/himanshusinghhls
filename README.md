@@ -20,10 +20,6 @@ B.Tech in Computer Science and Engineering
   Always open to discussing tech, cloud computing, and full-stack engineering roles.
 
 <div align="center">
-  
-<!-- <a href="https://drive.google.com/file/d/1sLGZTx-pX_rwYzOBI8p_i8aoBjRqliaC/view?usp=share_link">
-  <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-</a> -->
 
 <a href="mailto:himanshusinghhls@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
